@@ -1,10 +1,8 @@
 import { GoogleGenAI } from "@google/genai";
 
-// FIX: Use process.env.API_KEY as per coding guidelines. This resolves the TypeScript error.
 const API_KEY = process.env.API_KEY;
 
 if (!API_KEY) {
-  // FIX: Updated warning message to comply with guidelines.
   console.warn("Gemini API key not found. AI features will be disabled.");
 }
 
