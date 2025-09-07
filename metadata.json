@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Notes",
+  "description": "A sleek, mobile-first note-taking application that arranges notes by time. It uses the browser's local storage for persistence and features an AI-powered title suggestion tool using the Gemini API.",
+  "requestFramePermissions": []
+}
