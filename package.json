@@ -2,7 +2,7 @@
   "name": "gemini-notes",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>",
+  "homepage": "https://github.com/patilsk91/Notes-App",
   "type": "module",
   "scripts": {
     "dev": "vite",
